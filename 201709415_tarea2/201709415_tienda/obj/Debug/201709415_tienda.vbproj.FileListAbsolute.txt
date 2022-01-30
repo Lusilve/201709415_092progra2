@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\bin\Debug\201709415_tienda.exe.config
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\bin\Debug\201709415_tienda.exe
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\bin\Debug\201709415_tienda.pdb
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\bin\Debug\201709415_tienda.xml
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.vbproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\_201709415_tienda.Form1.resources
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\_201709415_tienda.Resources.resources
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.vbproj.GenerateResource.cache
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.exe
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.xml
+C:\Users\pedro\Desktop\201709415_tarea2\201709415_tienda\obj\Debug\201709415_tienda.pdb
