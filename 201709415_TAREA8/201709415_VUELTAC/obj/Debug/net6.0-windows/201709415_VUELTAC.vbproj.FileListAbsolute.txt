@@ -1,0 +1,17 @@
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\bin\Debug\net6.0-windows\201709415_VUELTAC.exe
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\bin\Debug\net6.0-windows\201709415_VUELTAC.deps.json
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\bin\Debug\net6.0-windows\201709415_VUELTAC.runtimeconfig.json
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\bin\Debug\net6.0-windows\201709415_VUELTAC.dll
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\bin\Debug\net6.0-windows\ref\201709415_VUELTAC.dll
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\bin\Debug\net6.0-windows\201709415_VUELTAC.pdb
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.vbproj.AssemblyReference.cache
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\_201709415_VUELTAC.Form1.resources
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.vbproj.GenerateResource.cache
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.AssemblyInfo.vb
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.vbproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.dll
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\ref\201709415_VUELTAC.dll
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.pdb
+C:\Users\pedro\Documents\clases\progra 2 092\TAREAS DE PROGRAMAS\201709415_TAREA8\201709415_VUELTAC\obj\Debug\net6.0-windows\201709415_VUELTAC.genruntimeconfig.cache
